@@ -1,0 +1,28 @@
+name: AYS
+description: AYS web interface
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  logger: ^1.0.0
+  get: ^4.6.1
+  flutter_easyloading: ^3.0.3
+
+  firebase_core: ^1.12.0
+  firebase_crashlytics: ^2.5.1
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+
+flutter:
+  uses-material-design: true
