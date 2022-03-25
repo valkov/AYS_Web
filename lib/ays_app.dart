@@ -37,7 +37,7 @@ class _AYSAppState extends State<AYSApp> {
     };
 
     return GetMaterialApp(
-      title: "AYS",
+      title: "Apply Yourself",
       // translations: Languages(),
       // //locale: Get.deviceLocale,
       // locale: const Locale('en', 'US'),
