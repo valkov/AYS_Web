@@ -1,6 +1,6 @@
 # AYS web
 
-A new Flutter project.
+A flutter implementation of AYS Web interface
 
 ## Getting Started
 
