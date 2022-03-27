@@ -81,8 +81,6 @@ class _MainScreenState extends State<MainScreen> {
               studentsMap.addAll({key: toBeEvaluated});
             } catch (err) {}
           }
-          var a = event.snapshot.value;
-          print("aha!");
         });
       },
       onError: (Object o) {
